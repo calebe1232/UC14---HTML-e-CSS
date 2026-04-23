@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+     <nav>
+        <a href="#menu">MENU</a>
+     </nav>
+    
+     <nav>
+        <a href="indexnav.html">vá para o menu principal</a>
+     </nav>
+
+     <main>
+        <h1>Justiça Federal em SP aceita pedido da PF e decreta prisão preventiva de MC Ryan SP, MC Poze do Rodo e criador da Choquei</h1>
+        <p>A Justiça Federal em SP aceitou na tarde desta quinta-feira (23) o pedido da Polícia Federal e decretou a prisão preventiva do MC Ryan SP, MC Poze do Rodo, Raphael Sousa Oliveira, criador da página Choquei e de outros investigados por envolvimento em um esquema bilionário de lavagem de dinheiro. O pedido foi feito após o Superior Tribunal de Justiça (STJ) conceder habeas corpus. Com o avanço das investigações e a análise de provas apreendidas, a PF avaliou que há elementos suficientes para a conversão das prisões temporárias em preventivas.</p>
+     </main>
+      
+      <main>
+        <h1>Barcelona perde Yamal para o restante da temporada, mas atacante deve ir à Copa</h1>
+        <p>O Barcelona divulgou nesta quinta-feira que Lamine Yamal teve lesão na parte posterior da coxa esquerda detectada após passar por exames. O jogador desfalcará o time no restante da temporada. O clube, no entanto, diz que o atacante deve disputar a Copa do Mundo.</p>
+     </main>
+
+      <main>
+        <h1>Líbero do Cruzeiro atropela e derruba bandeirinha durante jogo da Superliga</h1>
+        <p>Um bandeirinha foi atropelado pelo libero Alê, do Cruzeiro, na noite de quarta-feira no ginásio do Riacho, em Contagem. Na vitória do time celeste por 3 sets a 1 sobre o Minas pelo primeiro jogo da semifinal da Superliga Masculina, o líbero foi tentar salvar uma bola, trombou com o bandeira de fundo de quadra e o derrubou nas placas de publicidade. Apesar do susto, ficou tudo bem com o bandeira</p>
+     </main>
+
+      <main>
+        <h1>Oito pessoas morrem em acidente com três veículos na BR-020, em Goiás</h1>
+        <p>Van com 13 ocupantes bateu em uma caminhonete com quatro pessoas, que, na sequência, colidiu com um caminhão; acidente deixou ainda oito feridos</p>
+     </main>
+    
+</body>
+</html>
