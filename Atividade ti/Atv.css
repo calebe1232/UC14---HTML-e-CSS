@@ -1,0 +1,34 @@
+#titulo-clinica {
+    color: rgb(108, 255, 186);
+}
+.bemvindo {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#servicos {
+    color: rgb(243, 221, 62);
+}
+body {
+    background-color: maroon;
+}
+.servico0 {
+    color: whitesmoke;
+}
+.servico5 {
+    color: rgb(255, 255, 255);
+}
+.servico05 {
+    color: rgb(255, 255, 255);
+}
+.servico06 {
+    color: rgb(255, 255, 255);
+}
+img {
+    width: 200px;
+}
+.Depoimento {
+    color: rgb(37, 245, 182);
+}
+.Depoimento1 {
+    color: rgb(0, 255, 255);
+}
